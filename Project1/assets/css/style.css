@@ -1,0 +1,50 @@
+
+.heading1{
+
+    color: red;
+    background-color: blue;
+    border-radius: 2rem;
+    font-size: xx-large;
+}
+
+.formClass{
+
+    text-align: center;
+    background-color: cyan;
+    overflow: hidden;
+ 
+}
+
+.form-group input{
+
+   margin-left: 150px;
+}
+
+.heading2{
+
+    text-align: center;
+    margin-top: 50px;
+    background-color: orange;
+    color: black;
+    border-radius: 2rem;
+    font-size: large;
+
+}
+.heading3{
+
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+
+}
+
+.navbaaar{
+    background-color: pink;
+}
+.home{
+    font-weight: 800;
+}
+.csv{
+    font-weight: 800;
+}
+
